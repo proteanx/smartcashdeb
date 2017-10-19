@@ -4,10 +4,10 @@
 [Desktop Entry]
 Comment=SmartCash Wallet
 Exec=smartcash-qt %u
-GenericName[en_US]=SmartCash
-GenericName=SmartCash
-Icon=logo-smartcash
-Name[en_US]=smartcash.desktop
+GenericName[en_US]=Smartcash-qt
+GenericName=Smartcash-qt
+Icon=smartcash
+Name[en_US]=SmartCash Wallet
 Name=SmartCash Wallet
 Categories=Network;
 StartupNotify=false
