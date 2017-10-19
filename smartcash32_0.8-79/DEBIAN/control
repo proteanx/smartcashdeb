@@ -1,0 +1,10 @@
+Package: smartcash32
+Version: 0.8-79
+Section: internet
+Priority: optional
+Architecture: all
+Depends: 
+Maintainer: Proteus <pro@proteanx.com>
+Description: SmartCash GUI & Daemon 32-bit.
+ Desktop Wallet for SmartCash, a decentralized cryptocurrency
+ Network focused on Privacy and Community Consensus Governance.
