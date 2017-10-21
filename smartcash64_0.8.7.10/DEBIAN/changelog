@@ -1,0 +1,10 @@
+1  smartcash64 (0.8.7.10) unstable; urgency=medium
+2
+3   * 0.8.7.10 
+4
+5  Fixed Validation Error
+6  Warning and note changes to help understand Renew and Reclaim
+7  At Block 90,000, SmartHive funds will rotate payments over 95 blocks reducing 4 transaction per block.
+8  At Block 90,000, Difficulty will adjust every 12 Hours to reduce long block times.
+9  Removed miner from wallet that was causing false virus warnings. Fixed blockreward calculation.
+
