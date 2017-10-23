@@ -30,7 +30,7 @@ You should now have 2 new folders in your .smartcash folder (blocks & chainstate
 
 # Part 2 Installing the SmartCash Debian Install Package
 **If you are just upgrading and/or adding menu support please start here and skip the bootstrap!**
-### Let's download the appropriate image
+### Let's download the appropriate package for your OS
 #
 For 32-bit
 ```sh
