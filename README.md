@@ -43,7 +43,7 @@ For 64-bit
 ```sh
 cd ~/Downloads/
 wget 'https://github.com/proteanx/smartcashdeb/releases/download/0.8.7.10/smartcash64_0.8.7.10.deb'
-sudo dpkg -i smartcash32_0.8.7.10.deb
+sudo dpkg -i smartcash64_0.8.7.10.deb
 ```
 
 Your installation is now complete! You can now find the SmartCash Wallet in the 'Internet' section of your Desktop Menu or start the qt client by using the 'smartcash-qt' command in your terminal!
