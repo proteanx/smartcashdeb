@@ -1,1 +1,0 @@
-smartcash-qt.exe -reindex
