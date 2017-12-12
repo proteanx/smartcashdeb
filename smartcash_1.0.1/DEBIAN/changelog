@@ -1,0 +1,15 @@
+smartcash (1.0.1-0ubuntu1) xenial; urgency=medium
+
+   * Fixed PoW validation. Lowered fee
+
+  Upgraded PoW Validation. Lowered Fee
+
+ -- Smart Cash <proteus@smartcash.cc>  Tue, 12 Dec 2017 02:36:15 -0500
+
+smartcash (1.0.0-0ubuntu1) xenial; urgency=medium
+
+   * Initial PPA Commit 1.0.0 
+
+  Upgrade to 0.13 Bitcoin Codebase
+
+ -- Smart Cash <proteus@smartcash.cc>  Sun, 26 Nov 2017 22:36:15 -0500

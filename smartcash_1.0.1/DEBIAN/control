@@ -1,0 +1,10 @@
+Package: smartcash
+Version: 1.0.1
+Section: internet
+Priority: optional
+Architecture: all
+Depends: 
+Maintainer: Proteus <proteus@smartcash.cc>
+Description: SmartCash GUI & Daemon 64-bit.
+ Desktop Wallet for SmartCash, a decentralized cryptocurrency
+ Network focused on Privacy and Community Consensus Governance.

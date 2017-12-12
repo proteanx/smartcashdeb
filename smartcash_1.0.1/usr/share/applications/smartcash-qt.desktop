@@ -1,0 +1,16 @@
+# If you want smartcash to appear in a linux app launcher ("start menu"), install this by doing:
+# sudo desktop-file-install smartcash.desktop
+
+[Desktop Entry]
+Comment=SmartCash Wallet
+Exec=smartcash-qt %u
+GenericName[en_US]=Smartcash-qt
+GenericName=Smartcash-qt
+Icon=smartcash
+Name[en_US]=smartcash-qt
+Name=SmartCash Wallet
+Categories=Network;
+StartupNotify=false
+Terminal=false
+Type=Application
+
